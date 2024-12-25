@@ -1,6 +1,8 @@
 # Global
 .env
 .vscode/
+.next/
+.vercel/
 
 # Node.js
 node_modules/
